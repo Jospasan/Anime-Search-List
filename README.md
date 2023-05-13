@@ -1,8 +1,9 @@
-Anime Search List
-
 DESCRIPTION:
+
 ***THE WORK IS NOT MINE ALONE***
+
 This project was built and created with the work of 3 people: Chelsea Nguyen, Joseph Schley, and Danilo Inestroza.
+
 This program sorts a dataset from MyAnimeList using both Radix sort and QuickSort algorithms and allows the user to search by keyword/title, genre, and release year then returning the top five results for the given input.
 
 HOW TO RUN:
@@ -16,6 +17,8 @@ HOW TO RUN:
 7. That's it the program should be running. Now, just follow the on-screen program instructions.
 
 NOTES:
+
 Depending on what IDE/compiler the program is ran in some symbols might be displayed correctly.
+
 Credits for ReadMe go to: Danilo Inestroza
 
